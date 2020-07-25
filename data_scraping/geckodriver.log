@@ -27,3 +27,11 @@ JavaScript error: , line 0: AbortError: A request was aborted, for example throu
 1593600724057	Marionette	WARN	TLS certificate errors will be ignored for this session
 1593600728466	Marionette	INFO	Stopped listening on port 37085
 JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1595684572178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile76J2S3"
+1595684574702	Marionette	INFO	Listening on port 44217
+1595684574783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595684627847	Marionette	INFO	Stopped listening on port 44217
+1595684678571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefYv47o"
+1595684681192	Marionette	INFO	Listening on port 34733
+1595684681276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595684691313	Marionette	INFO	Stopped listening on port 34733
