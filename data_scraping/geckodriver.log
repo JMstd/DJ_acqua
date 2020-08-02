@@ -35,3 +35,10 @@ JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691:
 1595684681192	Marionette	INFO	Listening on port 34733
 1595684681276	Marionette	WARN	TLS certificate errors will be ignored for this session
 1595684691313	Marionette	INFO	Stopped listening on port 34733
+1596377404596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ7CWj9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596377410045	Marionette	INFO	Listening on port 45145
+1596377410178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596377412646	Marionette	INFO	Stopped listening on port 45145
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
